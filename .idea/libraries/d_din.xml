@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="d-din">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/public/d-din.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
